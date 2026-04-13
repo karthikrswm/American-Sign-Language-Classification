@@ -1,0 +1,25 @@
+# Discarded Large Data and Outputs
+Data/
+Output/Models/
+Output/Features/
+*.pkl
+*.npy
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/

@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Random Forest,1.0,1.0,1.0,1.0
+Log Regression,1.0,1.0,1.0,1.0
+SVM Linear,1.0,1.0,1.0,1.0
+SVM RBF,1.0,1.0,1.0,1.0
+AdaBoost,0.6071428571428571,0.5459770114942528,0.5862068965517241,0.557471264367816
+Bagging,1.0,1.0,1.0,1.0
